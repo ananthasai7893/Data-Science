@@ -1,0 +1,6 @@
+nbytes -
+Total bytes consumed by the elements of the array.
+Does not include memory consumed by non-element attributes of the array object.
+
+itemsize-
+This array attribute returns the length of each element of array in bytes.
